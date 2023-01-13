@@ -1,0 +1,85 @@
+﻿<html>
+<body>
+	<main>
+		<h1 Style = "text-align:left;"><u>Time Table</u></h1>
+		<table border="5" style="text-align:center;">
+			<tr>
+				<th colspan="10">Year/Sem/Sec:II-CSE/III/'C'</th>
+			</tr>
+			<tr>
+				<th>Hour</th>
+				<td>1</td>
+				<td>2</td>
+				<td>-</td>
+				<td>3</td>
+				<td>4</td>
+				<td>-</td>
+				<td>5</td>
+				<td>6</td>
+				<td>7</td>
+			</tr>
+			<tr>
+				<th>Time / Day</th>
+				<td>(9:10 A.M - 10:05 A.M)</td>
+				<td>(10:05 A.M - 11:00 A.M)</td>
+				<td>11:00 A.M - 11:15 A.M</td>
+				<td>11:15 A.M - 12:10 P.M</td>
+				<td>12.10 P.M - 1:00 P.M</td>
+				<td>1:00 P.M - 1:45 P.M</td>
+				<td>1:45 P.M - 2:45 P.M</td>
+				<td>2:45 P.M - 3:30 P.M</td>
+				<td>3:30 P.M - 4:30 P.M</td>
+			</tr>
+			<tr>
+			    <th>Mon</th>
+			    <td>DBMS</td>
+				<td>COA</td>
+				<td rowspan="5">Break</td>
+				<td>DSA</td>
+				<td>TPDE</td>
+				<td rowspan="5">Lunch</td>
+				<td>DPSD</td>
+				<td>TPDE</td>
+				<td>LIB</td>
+			<tr>
+				<th>Tue</th>
+				<td>COA</td>
+				<td>DBMS</td>
+				<td>TPDE</td>
+				<td>OOPS</td>
+				<td>DBMS</td>
+				<td>SEM</td>
+				<td>OOPS</td>
+			</tr>
+			<tr>
+			    <th>Wed</th>
+			    <td>DPSD</td>
+				<td>DSA</td>
+			    <td>OOPS</td>
+				<td>TPDE</td>
+		        <td colspan="3" style = "text-align:center;"><b>DBMSLAB</b></td>
+			</tr>
+			<tr>
+			    <th>Thu</th>
+			    <td>OOPS</td>
+				<td>DPSD</td>
+				<td>DSA</td>
+				<td>COA</td>
+				<td colspan="3" style = "text-align:center;"><b>DS/DPSDLAB</b></td>
+			</tr>
+			<tr>
+			    <th>Fri</th>
+			    <td>DBMS</td>
+				<td>COA</td>
+				<td>DPSD</td>
+				<td>DSA</td>
+				<td colspan="3" style = "text-align:center;"><b>DS/DPSDLAB</b></td>
+			</tr>
+		</table>
+	</main>
+</body>
+</html>	
+
+
+
+
